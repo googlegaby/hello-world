@@ -1,2 +1,4 @@
 # hello-world
-Snipcart Repository
+
+
+Hello, My name is Gaby and I'm trying this out.
